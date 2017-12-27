@@ -1,2 +1,2 @@
 # todo-list-app
-CRUD Application using PHP &amp; Mysql
+Thid is a CRUD Application using PHP &amp; Mysql, developed duiring a course on Udemy.
